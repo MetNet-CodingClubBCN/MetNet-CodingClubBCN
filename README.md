@@ -6,7 +6,7 @@
 - ⚡ What is MetNet?
     <img width="187" alt="Screenshot 2024-03-09 at 11 56 26" src="https://github.com/MetNet-CodingClubBCN/MetNet-CodingClubBCN/assets/162796043/f1ad7777-2b51-48b2-9d28-52bf55fb9ec6">
   
--   "The Cellular Signaling and Metabolism Section (Catalan Society of Biology) brings together scientists interested in
+  "The Cellular Signaling and Metabolism Section (Catalan Society of Biology) brings together scientists interested in
   how cells can interpret the signals they receive from the outside, by which mechanisms these signals are internalized,
   and how they modify cellular behavior. We are also interested in how cellular metabolism is regulated at the level
   of the enzymes involved and the metabolic fluxes and their hormonal control."
