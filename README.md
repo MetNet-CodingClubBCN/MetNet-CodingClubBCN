@@ -23,6 +23,7 @@
   and how they modify cellular behavior. We are also interested in how cellular metabolism is regulated at the level
   of the enzymes involved and the metabolic fluxes and their hormonal control."
       https://scb.iec.cat/senyalitzacio-cel·lular-i-metabolisme/ 
+![IMG_5731346FEBF7-1](https://github.com/MetNet-CodingClubBCN/MetNet-CodingClubBCN/assets/162796043/728054ee-3450-4ff9-99f1-b28d23f32ef8)
 
 <!---
 MetNet-CodingClubBCN/MetNet-CodingClubBCN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
