@@ -1,8 +1,8 @@
-- 👋 Hi, this is the @MetNet-CodingClubBCN
+- 👋 Hi, this is the @MetNet-CodingClubBCN  
   
 - 👀 The Metabolism Network Coding Club (MNCC) aims to be a safe platform for continuous learning and
   practice in bioinformatics and data science for scientific data interpretation within our network.
-  
+
 - 🌱 We have three sections:
   + Beginners - in-person meetings to learn/share scientific data analysis pipelines for people new to
   biomedical/biological data analysis.
@@ -22,9 +22,10 @@
   how cells can interpret the signals they receive from the outside, by which mechanisms these signals are internalized,
   and how they modify cellular behavior. We are also interested in how cellular metabolism is regulated at the level
   of the enzymes involved and the metabolic fluxes and their hormonal control."
-      https://scb.iec.cat/senyalitzacio-cel·lular-i-metabolisme/ 
-![IMG_5731346FEBF7-1](https://github.com/MetNet-CodingClubBCN/MetNet-CodingClubBCN/assets/162796043/728054ee-3450-4ff9-99f1-b28d23f32ef8)
+      https://scb.iec.cat/senyalitzacio-cel·lular-i-metabolisme/
 
+    <img width="187" alt="Screenshot 2024-03-09 at 11 56 26" src="https://github.com/MetNet-CodingClubBCN/MetNet-CodingClubBCN/assets/162796043/f1ad7777-2b51-48b2-9d28-52bf55fb9ec6">
+  
 <!---
 MetNet-CodingClubBCN/MetNet-CodingClubBCN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
