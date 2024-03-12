@@ -1,4 +1,4 @@
-- 👋 Hi, this is the @MetNet-CodingClubBCN  
+- 👋 Hi, this is the @MetNet-CodingClubBCN!
   
 - 👀 The Metabolism Network Coding Club (MNCC) aims to be a safe platform for continuous learning and
   practice in bioinformatics and data science for scientific data interpretation within our network.
